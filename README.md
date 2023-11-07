@@ -30,6 +30,6 @@ Tabla Resumen -> as a final information, here we see the full information as a r
 
 - PowerBI
 
-## Agreements
+## Feedback
 
 I have to say that thank of [**ElTioTech**]([https://pages.github.com/](https://www.youtube.com/@ElTioTech)https://www.youtube.com/@ElTioTech) in Youtube I wouldn't learn this good skills of PowerBI
