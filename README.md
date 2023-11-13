@@ -20,8 +20,11 @@ Clients dataset provides information of all the clients we have in our company. 
 # 📌 Insights
 
 🔹 Important KPI are type of clients and date of discharge 
+
 🔹 The average age of the clients
+
 🔹 Where are the clients based on cities
+
 🔹 Summary of the table of our clients
 
 # ✔ Conclusion
