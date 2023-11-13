@@ -10,8 +10,11 @@ Clients dataset provides information of all the clients we have in our company. 
 # 📝 Things I've Done
 
 🔹 Imported Excel BD clients dataset into PowerBI
+
 🔹 Removed irrelevant or redundant column handled missing values
+
 🔹 Create different filters to have a better background of the information
+
 🔹 Have proper graphics to see it easily
 
 # 📌 Insights
