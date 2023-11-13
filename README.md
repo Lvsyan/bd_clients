@@ -1,35 +1,26 @@
-# Description 
+# 📝 Topic
 
-This is a my project where I show Data of Clients, using some tools to can simplify different points where I show them below
+- Database Clients
+- Tool used: Excel, PowerBI
 
-### Filters
+# 📝 Description
 
-Año de alta -> Here we can filter by date of discharge
+Clients dataset provides information of all the clients we have in our company. My task was to create a Dashboard to offer insights about information on the company: ages, type of clients, discharge, etc...
 
-Ciudad -> We can select in which city the're are living
+# 📝 Things I've Done
 
-Edad -> Which age do they have
+🔹 Imported Excel BD clients dataset into PowerBI
+🔹 Removed irrelevant or redundant column handled missing values
+🔹 Create different filters to have a better background of the information
+🔹 Have proper graphics to see it easily
 
-Grupo de clientes -> What type of clients they are ambassador, frequent, occasional and regular
+# 📌 Insights
 
-### Dashboard
+🔹 Important KPI are type of clients and date of discharge 
+🔹 The average age of the clients
+🔹 Where are the clients based on cities
+🔹 Summary of the table of our clients
 
-Tipos de clientes -> here we can see the type of clients we have like we said before about the groups
+# ✔ Conclusion
 
-Año de Alta -> when theses clients had date of discharge
-
-Clientes por edad -> having a filter where we can see every age on every type of client
-
-Clientes por ciudad -> in this graphic we can see how many clients are living in which cities
-
-Tabla Resumen -> as a final information, here we see the full information as a resume
-
-## Programs
-
-- Excel 2016
-
-- PowerBI
-
-## Feedback
-
-I have to say that thank of [**ElTioTech**]([https://pages.github.com/](https://www.youtube.com/@ElTioTech)https://www.youtube.com/@ElTioTech) in Youtube I wouldn't learn this good skills of PowerBI
+✴ "This dashboards aims to have a tool for inside the company to realize which clients are in a better position than others and be able to make desicions." ✴
